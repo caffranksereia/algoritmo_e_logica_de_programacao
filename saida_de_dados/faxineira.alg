@@ -3,7 +3,6 @@ Algoritmo "teste_saida"
 Var
 
 a: inteiro
-
 salario: real
 nome : caractere
 
